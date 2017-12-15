@@ -1,0 +1,43 @@
+Dummy data in minutes required,,,
+,,,
+"please create dummy data as the average of the past quarter for each job, there's 35 jobs ",,,
+,,,On average it takes 4 hours to run all jobs
+Jobs,Job Descriptions,Control-M Jobs Ref #,Average Execution effort required per job (in hours)
+1,File Transfer_1,REF_1020,0.08
+2,File Transfer_2,REF_1021,0.05
+3,File Transfer_3,REF_1022,0.06
+4,File Transfer_4,REF_1023,0.03
+5,File Transfer_5,REF_1024,0.8
+6,File Transfer_6,REF_1025,0.1
+7,Daily file to application_1,REF_1026,0.08
+8,Daily file to application_2,REF_1027,0.04
+9,Load Data,REF_1028,0.04
+10,Warehouse File Transfer_1,REF_1029,0.05
+11,Warehouse File Transfer_2,REF_1030,0.05
+12,Warehouse File Transfer_3,REF_1031,0.02
+13,Warehouse File Transfer_4,REF_1032,0.05
+14,Warehouse File Transfer_5,REF_1033,0.05
+15,Warehouse File Transfer_6,REF_1034,0.6
+16,Sync data_1,REF_1035,0.02
+17,Reference File Transfer_1,REF_1036,0.08
+18,Reference File Transfer_2,REF_1037,0.4
+19,Reference File Transfer_3,REF_1038,0.03
+20,Reference File Transfer_4,REF_1039,0.02
+21,Sync data_2,REF_1040,0.04
+22,Global File Transfer_1,REF_1041,0.03
+23,Global File Transfer_2,REF_1042,0.06
+24,Script to application,REF_1043,0.06
+25,Extract to application,REF_1044,0.07
+26,Data Loading,REF_1045,0.09
+27,Incremental Data Loading,REF_1046,0.06
+28,Stage Data Loading_1,REF_1047,0.03
+29,Stage Data Loading_2,REF_1048,0.04
+30,Publishing,REF_1049,0.05
+31,Publish to application,REF_1050,0.06
+32,Group profiles_1,REF_1051,0.02
+33,Group profiles_2,REF_1052,0.02
+34,Publish to other applications,REF_1053,0.07
+35,Group profiles_3,REF_1054,0.05
+36,Group profiles_4,REF_1055,0.08
+37,Arrange Data,REF_1056,0.5
+38,Sync Data,REF_1057,0.04
