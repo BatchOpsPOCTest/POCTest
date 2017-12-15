@@ -1,7 +1,3 @@
-Dummy data in minutes required,,,
-,,,
-"please create dummy data as the average of the past quarter for each job, there's 35 jobs ",,,
-,,,On average it takes 4 hours to run all jobs
 Jobs,Job Descriptions,Control-M Jobs Ref #,Average Execution effort required per job (in hours)
 1,File Transfer_1,REF_1020,0.08
 2,File Transfer_2,REF_1021,0.05
