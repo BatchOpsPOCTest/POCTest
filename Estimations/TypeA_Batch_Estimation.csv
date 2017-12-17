@@ -29,33 +29,3 @@ Jobs,Job Descriptions,Control-M Jobs Ref #,Average Execution effort required per
 28,Transfer files to database_1,REF_2127,0.0002
 29,Transfer files to database_2,REF_2128,0.0005
 30,Transfer files to database_3,REF_2129,0.0003
-31,Job Securities,REF_2130,0.0004
-32,Job Security Owners,REF_2131,0.0007
-33,N-job Security and Security Owners,REF_2132,0.01
-34,Job - Charge Details,REF_2133,0.001
-35,Guarantee Beneficiary Details,REF_2134,0.0009
-36,Supporting Charges_1,REF_2135,0.0005
-37,Supporting Charges_2,REF_2136,0.1
-38,Charges Information,REF_2137,0.0004
-39,Charge Account,REF_2138,0.001
-40,N job - Charge Account,REF_2139,0.0002
-41,Valuations,REF_2140,0.0006
-42,N job - Valuations,REF_2141,0.0006
-43,Job Loan Securities,REF_2142,0.00007
-44,N job - Loan Securities,REF_2143,0.001
-45,Certificate Titles_1,REF_2144,0.001
-46,Certificate Titles_2,REF_2145,0.0006
-47,Property Insurance_1,REF_2146,0.0004
-48,Property Insurance_2,REF_2147,0.0001
-49,Capitalisation_1,REF_2148,0.0005
-50,Capitalisation_2,REF_2149,0.0008
-51,Consolidation,REF_2150,0.0006
-52,Transaction Echoes,REF_2151,0.0008
-53,Error Details _Securities,REF_2152,0.0005
-54,Error Details _Interface,REF_2153,0.00004
-55,Error Details Field,REF_2154,0.001
-56,Import Post-processing,REF_2155,0.00006
-57,Archive job,REF_2156,0.0005
-58,Securities Database Job,REF_2157,0.0001
-59,Archive job,REF_2158,0.0004
-60,Securities Database File,REF_2159,0.001
