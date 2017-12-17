@@ -12,9 +12,9 @@ Jobs,Job Descriptions,Control-M Jobs Ref #,Average Execution effort required per
 11, Charge Extracts,REF_2110,0.0005
 12, Guarantee Beneficary,REF_2111,0.0002
 13,Supporting Charges,REF_2112,0.0003
-14,Charge Account Link  ,REF_2113,0.0005
+14,Charge Account Link ,REF_2113,0.0005
 15,Application Users,REF_2114,0.0007
-16,  Relationships,REF_2115,0.0007
+16, Relationships,REF_2115,0.0007
 17,Dummy job creation,REF_2116,0.0002
 18,Export job,REF_2117,0.01
 19,Securities Database updates_1,REF_2118,0.0003
@@ -56,6 +56,6 @@ Jobs,Job Descriptions,Control-M Jobs Ref #,Average Execution effort required per
 55,Error Details Field,REF_2154,0.001
 56,Import Post-processing,REF_2155,0.00006
 57,Archive job,REF_2156,0.0005
-58,Securities Database  Job,REF_2157,0.0001
+58,Securities Database Job,REF_2157,0.0001
 59,Archive job,REF_2158,0.0004
-60,Securities Database  File,REF_2159,0.001
+60,Securities Database File,REF_2159,0.001
